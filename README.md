@@ -131,10 +131,12 @@ First clone the repository to your local machine:
 To run the application locally,
 dont forget to create a .env file with your mysql credentials:
 
-`DB_NAME='tech_blog_db'`
-`DB_USER='root'`
-`DB_PW='your password'`
-`PORT='3001'`
+```
+DB_NAME='tech_blog_db'
+DB_USER='root'
+DB_PW='your password'
+PORT='3001'
+```
 
 Also
 you need to have previously installed mysql server on your PC.
